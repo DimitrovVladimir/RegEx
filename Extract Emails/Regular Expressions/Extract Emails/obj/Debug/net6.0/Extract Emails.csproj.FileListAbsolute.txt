@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\bin\Debug\net6.0\Extract Emails.exe
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\bin\Debug\net6.0\Extract Emails.deps.json
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\bin\Debug\net6.0\Extract Emails.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\bin\Debug\net6.0\Extract Emails.dll
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\bin\Debug\net6.0\Extract Emails.pdb
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.dll
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\obj\Debug\net6.0\refint\Extract Emails.dll
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.pdb
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Extract Emails\Regular Expressions\Extract Emails\obj\Debug\net6.0\ref\Extract Emails.dll

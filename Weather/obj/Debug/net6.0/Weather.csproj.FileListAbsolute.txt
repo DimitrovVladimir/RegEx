@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\bin\Debug\net6.0\Weather.exe
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\bin\Debug\net6.0\Weather.deps.json
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\bin\Debug\net6.0\Weather.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\bin\Debug\net6.0\Weather.dll
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\bin\Debug\net6.0\Weather.pdb
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\obj\Debug\net6.0\Weather.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\obj\Debug\net6.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\obj\Debug\net6.0\Weather.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\obj\Debug\net6.0\Weather.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\obj\Debug\net6.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\obj\Debug\net6.0\Weather.dll
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\obj\Debug\net6.0\refint\Weather.dll
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\obj\Debug\net6.0\Weather.pdb
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\obj\Debug\net6.0\Weather.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Weather\obj\Debug\net6.0\ref\Weather.dll

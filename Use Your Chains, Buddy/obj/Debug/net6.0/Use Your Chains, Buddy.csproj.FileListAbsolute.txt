@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\bin\Debug\net6.0\Use Your Chains, Buddy.exe
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\bin\Debug\net6.0\Use Your Chains, Buddy.deps.json
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\bin\Debug\net6.0\Use Your Chains, Buddy.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\bin\Debug\net6.0\Use Your Chains, Buddy.dll
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\bin\Debug\net6.0\Use Your Chains, Buddy.pdb
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\obj\Debug\net6.0\Use Your Chains, Buddy.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\obj\Debug\net6.0\Use Your Chains, Buddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\obj\Debug\net6.0\Use Your Chains, Buddy.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\obj\Debug\net6.0\Use Your Chains, Buddy.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\obj\Debug\net6.0\Use Your Chains, Buddy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\obj\Debug\net6.0\Use Your Chains, Buddy.dll
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\obj\Debug\net6.0\refint\Use Your Chains, Buddy.dll
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\obj\Debug\net6.0\Use Your Chains, Buddy.pdb
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\obj\Debug\net6.0\Use Your Chains, Buddy.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Regular Expressions\Use Your Chains, Buddy\obj\Debug\net6.0\ref\Use Your Chains, Buddy.dll
